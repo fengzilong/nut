@@ -33,7 +33,7 @@
   "dependencies": {
     "@mapbox/rehype-prism": "^0.3.1",
     "@mdx-js/mdx": "^1.0.21",
-    "@mdx-js/vue": "1.0.20",
+    "@mdx-js/vue": "1.6.22",
     "@nut-project/dev-utils": "^1.0.0-alpha.4",
     "@sindresorhus/slugify": "^0.9.1",
     "address": "^1.1.2",
