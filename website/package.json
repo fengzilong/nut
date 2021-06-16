@@ -8,8 +8,8 @@
     "create-pages": "node ../packages/cli/bin/index.js pages create demo"
   },
   "dependencies": {
-    "@zeit-ui/themes": "^0.1.0",
+    "@zeit-ui/themes": "0.1.0",
     "@zeit-ui/vue": "1.3.1",
-    "vue": ">2.0.0"
+    "vue": "2.6.14"
   }
 }
